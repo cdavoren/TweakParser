@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TweakParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"U:\\Games\\SteamLibrary\\steamapps\\common\\Cyberpunk 2077\\tools\\redmod\\tweaks\"\r\n\r\n\"U:\\Games\\SteamLibrary\\steamapps\\common\\Cyberpunk 2077\\tools\\redmod\\tweaks\\base\\gameplay\\static_data\\database\\ai\\actions\\samples.tweak\"\r\n\r\n\"U:\\Games\\SteamLibrary\\steamapps\\common\\Cyberpunk 2077\\tools\\redmod\\tweaks\\base\\gameplay\\static_data\\database\\ai\\actions\\samples.tweak\"\r\n\r\n\"U:\\Games\\SteamLibrary\\steamapps\\common\\Cyberpunk 2077\\tools\\redmod\\tweaks\"\r\ntweaks_testing.tweak",
+      "workingDirectory": "G:\\workspace\\TweakParser"
+    }
+  }
+}
